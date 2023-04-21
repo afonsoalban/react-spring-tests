@@ -1,5 +1,5 @@
 {
-  "name": "Chaining Transition and a Spring",
+  "name": "chaining-transitions",
   "version": "1.0.0",
   "main": "src/index.tsx",
   "description": "Orchestrating a useTransition and useSpring hook with the useChain hook.",
